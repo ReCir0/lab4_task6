@@ -24,14 +24,6 @@ Subclass of Enemy, an  unfriendly creature that is stronger that regular enemy a
 
 Class that represents some kind of area where some kind of action takes place
 
-## Class Item
-
-Class that represents an object that gives different advantages for a player
-
 ## Class Weapon
 
-Subclass of Item that represents an Item with which the player can fight
-
-## Class Healer
-
-Subclass of Item that can heal a player
+Represents a class of object you can fight with
